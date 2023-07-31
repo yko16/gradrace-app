@@ -1,2 +1,4 @@
-# GradU8 !
-Visualize your path to complete your degree at McGill through classes links and opportunities
+# GradRace
+Visualize your path to complete your degree through classes links and opportunities
+
+V1: McGill
